@@ -1,0 +1,9 @@
+D:\CsharpWinforms\PermanentData\PermanentData\bin\Release\net48\PermanentData.exe.config
+D:\CsharpWinforms\PermanentData\PermanentData\bin\Release\net48\PermanentData.exe
+D:\CsharpWinforms\PermanentData\PermanentData\bin\Release\net48\PermanentData.pdb
+D:\CsharpWinforms\PermanentData\PermanentData\obj\Release\net48\PermanentData.csproj.AssemblyReference.cache
+D:\CsharpWinforms\PermanentData\PermanentData\obj\Release\net48\PermanentData.AssemblyInfoInputs.cache
+D:\CsharpWinforms\PermanentData\PermanentData\obj\Release\net48\PermanentData.AssemblyInfo.cs
+D:\CsharpWinforms\PermanentData\PermanentData\obj\Release\net48\PermanentData.csproj.CoreCompileInputs.cache
+D:\CsharpWinforms\PermanentData\PermanentData\obj\Release\net48\PermanentData.exe
+D:\CsharpWinforms\PermanentData\PermanentData\obj\Release\net48\PermanentData.pdb

@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CsharpWinforms\\PermanentData\\PermanentData\\PermanentData.csproj": {}
+  },
+  "projects": {
+    "D:\\CsharpWinforms\\PermanentData\\PermanentData\\PermanentData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CsharpWinforms\\PermanentData\\PermanentData\\PermanentData.csproj",
+        "projectName": "PermanentData",
+        "projectPath": "D:\\CsharpWinforms\\PermanentData\\PermanentData\\PermanentData.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\CsharpWinforms\\PermanentData\\PermanentData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
